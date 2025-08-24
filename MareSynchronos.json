@@ -17,5 +17,5 @@
   "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/client/main/MareSynchronos/images/logo.png",
   "Punchline": "Let others see you as you see yourself.",
   "AcceptsFeedback": true,
-  DownloadLinkInstall: 'https://github.com/Scassany/ScassanyMareClient/blob/main/latest.zip'
+  "DownloadLinkInstall": "https://github.com/Scassany/ScassanyMareClient/blob/main/latest.zip"
 }
